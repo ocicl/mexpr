@@ -1,0 +1,10 @@
+* mexpr
+
+Macro for Common Lisp to allow infix syntax for mathematicall expressions.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tmccombs/mexpr.git   |
+| commit  | fe22c16  |
+| systems | mexpr |
+|---------+-------------------------------------------|
+
